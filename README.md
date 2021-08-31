@@ -1,13 +1,20 @@
-# Curso Intermediário de Angular - Digital Innovation One
+# Projeto Intermediário de Angular - Digital Innovation One
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+Esse projeto foi adaptado de projeto feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
-O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
+Foram incluidos:
+* botão voltar na edição de cursos
+* logotipos e favicons da Digital Innovation One
+* campo de link funcional redirecionando para a url real de cada curso da plataforma
+* imagens dos cursos reais
+* modificação das cores e layout
+* rodapá personalizado
+
+A aplicação consiste em um sistema de cursos online, com a possibilidade de cadastros, edições, listagem e visualização dos cursos.
 
 ## Instalação
 
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
-2. Entre no projeto e instale as dependencias `npm install`
+ Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
 
