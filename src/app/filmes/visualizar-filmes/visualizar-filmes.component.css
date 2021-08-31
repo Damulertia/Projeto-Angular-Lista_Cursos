@@ -1,0 +1,25 @@
+.mat-card-image {
+  width: 182px;
+  height: 268px;
+  margin: auto;
+  display: block;
+}
+
+.link-dio {
+  color: rgb(255, 72, 0);
+  padding-left: 5px;
+}
+
+.nota {
+  color: rgb(255, 255, 255);
+  padding-left: 5px;
+}
+
+.img {
+  max-width: none;
+  min-width: 150px;
+}
+
+.btnVoltar {
+  background-color: rgb(30, 102, 210);
+}

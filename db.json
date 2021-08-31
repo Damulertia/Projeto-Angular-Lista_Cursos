@@ -1,0 +1,94 @@
+{
+  "filmes": [
+    {
+      "titulo": "Javascript ES6 essencial",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/c2c97346-d62c-4739-92ba-d534b087aa56.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Nesse curso você vai conhecer a extensão ESC6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios",
+      "nota": 6.9,
+      "urlIMDb": "https://web.digitalinnovation.one/course/programacao-para-internet-com-javascript/learning/33e81edf-6f9b-4b97-b3c6-12d930cf0831/?back=/browse",
+      "genero": "JavaScript",
+      "id": 16
+    },
+    {
+      "titulo": "Desenvolvimento básico em Java",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/88bb39be-4055-4d4c-ae22-c11c25ca6016.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "A linguagem Java é orientada a objetos e uma das mais usadas por desenvolvedores no mundo. Aprenda desde os conceitos e instalação até a execução de projetos na linguagem. ",
+      "nota": 6.9,
+      "urlIMDb": "https://web.digitalinnovation.one/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656/?back=/browse",
+      "genero": "Java",
+      "id": 12
+    },
+    {
+      "titulo": "Introdução ao Angular 8",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/4e771693-693c-4e3e-833c-f963ce9e65b8.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Nesse curso você aprenderá os conceitos e técnicas necessárias para começar a desenvolver aplicações usando Angular 8. ",
+      "nota": 6.9,
+      "urlIMDb": "https://web.digitalinnovation.one/course/introducao-ao-angular-8/learning/2d97a376-c570-45e3-9f32-f756f98804ab/?back=/browse",
+      "genero": "Angular",
+      "id": 13
+    },
+    {
+      "titulo": "Introdução ao ReactJS",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/47fb3627-20f0-4f92-a709-3e42cbe5cb36.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Aprenda os conceitos sobre ReactJS, ferramenta usada para criação de interfaces para usuários.",
+      "nota": 7.4,
+      "urlIMDb": "https://web.digitalinnovation.one/course/introducao-ao-reactjs/learning/01818f0a-18b2-4023-a555-57ebefba56af/?back=/browse",
+      "genero": "ReactJs",
+      "id": 14
+    },
+    {
+      "titulo": "MySql - Trabalhando com as suas primeiras tabelas",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/2d490e5c-a8ec-4401-b052-c1a5f89caab7.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Crie suas primeiras tabelas no ambiente MySQL e aprenda como gerenciar a relação entre elas.",
+      "nota": 8.4,
+      "urlIMDb": "https://web.digitalinnovation.one/course/mysql-trabalhando-com-as-suas-primeiras-tabelas/learning/daf3ef01-4a38-47d6-9f71-6d6e54b7efe6/?back=/browse",
+      "genero": "MySQL",
+      "id": 20
+    },
+    {
+      "titulo": "Introdução ao Git e ao Github",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Nesse curso vamos aprender um pouco sobre a história do git e como ele se tornou essencial para otimizar projetos dos desenvolvesores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.",
+      "nota": 8.4,
+      "urlIMDb": "https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/browse",
+      "genero": "Git/Github",
+      "id": 21
+    },
+    {
+      "titulo": "Estrutura de dados e algoritmos",
+      "urlFoto": "https://ead.inf.ufg.br/pluginfile.php/90365/course/overviewfiles/algorithms400.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Aprenda o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com armazenamento dessas informações de form ágil e otimizada.",
+      "nota": 6.8,
+      "urlIMDb": "https://web.digitalinnovation.one/course/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos/learning/a99f9576-69e9-4187-b3a7-e7ada5e5d6ad/?back=/browse",
+      "genero": "Estrutura de Dados",
+      "id": 22
+    },
+    {
+      "titulo": "Lógica de programação essencial",
+      "urlFoto": "https://user-images.githubusercontent.com/79605715/109510546-e87f6e00-7a80-11eb-9c24-69f45364416d.png",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.",
+      "nota": 8.8,
+      "urlIMDb": "https://web.digitalinnovation.one/course/logica-de-programacao-essencial-1/learning/e667ddc6-ca15-4f37-9291-dea944593898?back=/track/santander-fullstack-developer",
+      "tecnologia": "Estrutura de Dados",
+      "id": 28
+    },
+    {
+      "titulo": "Introdução a orientação a objetos com Java",
+      "urlFoto": "https://hermes.digitalinnovation.one/courses/badge/bc2c4fe0-3538-4ca0-9e11-3bc1a9a70e83.png",
+      "dtLancamento": "2017-02-24T03:00:00.000Z",
+      "descricao": "Aprenda de modo totalmente prático todos os principais pilares da Orientação a Objetos(POO) com Java.",
+      "nota": 8.2,
+      "urlIMDb": "https://web.digitalinnovation.one/course/introducao-a-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443/?back=/browse",
+      "genero": "Java",
+      "id": 29
+    }
+  ]
+}
